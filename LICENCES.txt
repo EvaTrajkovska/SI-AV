@@ -1,0 +1,6 @@
+This file was created with the command
+touch LICENCES.txt
+But it was changed with the command
+notepad LICENCES.txt
+Lets modify
+AND AGAIN

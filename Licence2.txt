@@ -1,0 +1,2 @@
+This licence file was created by using the command
+notepad Licence2.txt
